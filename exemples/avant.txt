@@ -1,0 +1,6 @@
+Bonjour: voici l'outil de M. Dupont... Vraiment? Oui!
+Il a dit "c'est fini", etc... Le 2ème atelier aura lieu à 14h30, salle 3.
+Etienne Mineur présente son oeuvre: 12km, 25%, 10€ et 120000 visiteurs.
+A propos de l'Etat - enfin - la page fait 1024x768 px.
+Adresse : https://etienne.design/tools/?a=1;b=2 et rendez-vous à 12:30, format 16:9.
+«serré» , version 1.5 du fichier macpaint.js
